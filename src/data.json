@@ -1,0 +1,63 @@
+{
+    "Roupas": {
+        "Calça": {
+            "CalçaJeans": [
+                { "month": "Janeiro",  "value": 100 },
+                { "month": "Fevereiro", "value": 500 },
+                { "month": "Março",    "value": 600 },
+                { "month": "Abril",    "value": 100 }
+            ],
+            "CalçaSocial": [
+                { "month": "Janeiro",  "value": 120 },
+                { "month": "Fevereiro", "value": 400 },
+                { "month": "Março",    "value": 550 },
+                { "month": "Abril",    "value": 150 }
+            ]
+        },
+        "Camisa": {
+            "CamisaPolo": [
+                { "month": "Janeiro",  "value": 80 },
+                { "month": "Fevereiro", "value": 300 },
+                { "month": "Março",    "value": 350 },
+                { "month": "Abril",    "value": 90 }
+            ],
+            "CamisaSocial": [
+                { "month": "Janeiro",  "value": 60 },
+                { "month": "Fevereiro", "value": 250 },
+                { "month": "Março",    "value": 300 },
+                { "month": "Abril",    "value": 80 }
+            ]
+        }
+    },
+    "Eletrônicos": {
+        "Celular": {
+            "CelularA": [
+                { "month": "Janeiro",  "value": 200 },
+                { "month": "Fevereiro", "value": 450 },
+                { "month": "Março",    "value": 500 },
+                { "month": "Abril",    "value": 300 }
+            ],
+            "CelularB": [
+                { "month": "Janeiro",  "value": 180 },
+                { "month": "Fevereiro", "value": 420 },
+                { "month": "Março",    "value": 480 },
+                { "month": "Abril",    "value": 280 }
+            ]
+        },
+        "Notebook": {
+            "NotebookX": [
+                { "month": "Janeiro",  "value": 90 },
+                { "month": "Fevereiro", "value": 200 },
+                { "month": "Março",    "value": 250 },
+                { "month": "Abril",    "value": 180 }
+            ],
+            "NotebookY": [
+                { "month": "Janeiro",  "value": 110 },
+                { "month": "Fevereiro", "value": 220 },
+                { "month": "Março",    "value": 270 },
+                { "month": "Abril",    "value": 190 }
+                
+            ]
+        }
+    }
+}
